@@ -1,0 +1,20 @@
+#!/bin/bash
+echo -e "\e[0;34m"
+echo "Holiwi"
+
+echo -e "\e[0;34m"
+read nombre
+echo "holiwi $nombre que tal ?"
+echo -e "\e[0;34m"
+sleep 2
+echo "robando su corazon 0%"
+sleep 2
+echo "robando su corazon 30%"
+sleep 2
+echo "robando su corazon 70%"
+sleep 2
+echo "robando su corazon 99%"
+sleep 2
+echo "falla"
+sleep 2
+echo "sigue intentando"
